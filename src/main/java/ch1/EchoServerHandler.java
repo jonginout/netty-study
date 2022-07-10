@@ -6,7 +6,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 
 import java.nio.charset.Charset;
 
-class EchoServerHandler extends ChannelInboundHandlerAdapter { // (1)
+public class EchoServerHandler extends ChannelInboundHandlerAdapter { // (1)
 
     @Override
     public void channelRead(ChannelHandlerContext context, Object msg) { // (2)
