@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch6.WriteByteBufferTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-23T16:51:24" hostname="BI-2103093-04.local" time="0.008">
+  <properties/>
+  <testcase name="test()" classname="ch6.WriteByteBufferTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
